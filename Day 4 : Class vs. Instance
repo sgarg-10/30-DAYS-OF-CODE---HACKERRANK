@@ -23,9 +23,6 @@ public class Person {
             System.out.println("You are a teenager.");
         }else 
             System.out.println("You are old.");
-        
-  		
-        
 	}
 
 	public void yearPasses() {
