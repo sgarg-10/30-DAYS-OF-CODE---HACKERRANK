@@ -16,8 +16,6 @@ public class Solution {
                  }else{
                      return 1;
                  }
-
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);
