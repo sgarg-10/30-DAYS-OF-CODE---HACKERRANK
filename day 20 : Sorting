@@ -23,7 +23,8 @@ public class Solution {
                 a[j]=temp;
                 swap++;
             }
-        }}
+        }
+       }
 
          System.out.println("Array is sorted in " + swap + " swaps.");
          System.out.println("First Element: " + a[0]);
